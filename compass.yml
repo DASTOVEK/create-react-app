@@ -1,0 +1,13 @@
+name: create-react-app
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/c608f891-aee2-4c96-a0f8-04e91f45715c
+description: Set up a modern web app by running one command.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
